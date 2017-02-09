@@ -1,0 +1,136 @@
+username,age,gender,smoking,cleanliness,upets,ubudget,duration,dateMovin,roommateagerange,roommategender,location ,sleeppattern,alcohol,noise,socializing,cooking,latitude,longitude,foodpref,agemin,agemax
+Orchid27,51,M,False,Clean,True,2000,6 month or less,2017-01-01,17 - 50,M,austin,Early Bird,TRUE,Yes,Very Social,2,30.2711286,-97.7436994,Non-Vegetarian,17,50
+Jbudd25,38,M,False, Moderately Clean,True,700,12 month or less,2017-01-01,18 - 50,A,austin,Early Bird,FALSE,Yes,Moderately Social,1,30.2711286,-97.7436994,Vegan,18,50
+William13,22,F,False,Clean,True,1000,12 month or less,2017-01-01,17 - 50,A,austin,Early Bird,TRUE,Yes,I keep to myself,3,30.2711286,-97.7436994,Vegan,17,50
+Raepocalypse,18,M,False, Moderately Clean,True,600,6 month or less,2016-12-31,18 - 30,A,austin,Early Bird,TRUE,Yes,Very Social,4,30.2711286,-97.7436994,Vegan,18,30
+Saturnring24,21,M,False,Clean,True,800,12 month or less,2017-03-01,18 - 25,A,austin,Early Bird,TRUE,Yes,Moderately Social,3,30.2711286,-97.7436994,Vegetarian,18,25
+Jordanshort,23,F,False,Clean,True,800,12 month or less,2017-07-01,18 - 40,A,austin,Early Bird,FALSE,Yes,I keep to myself,6,30.2711286,-97.7436994,Vegetarian,18,40
+colleendee,38,F,False,Clean,True,600,12 month or less,2016-12-01,30 - 99,A,austin,Early Bird,TRUE,Yes,Very Social,0,30.2711286,-97.7436994,Vegetarian,30,99
+JamalB,26,F,False, Moderately Clean,True,400,9 month or less,2017-01-01,17 - 50,A,austin,Early Bird,TRUE,Yes,Moderately Social,1,30.2711286,-97.7436994,Non-Vegetarian,17,50
+blackshear94,25,F,False,Clean,True,800,12 month or less,2017-03-01,18 - 34,A,austin,Early Bird,TRUE,Yes,I keep to myself,0,30.2711286,-97.7436994,Non-Vegetarian,18,34
+BentleyK123,19,F,False, Moderately Clean,True,700,12 month or less,2017-04-17,18 - 22,A,austin,Early Bird,FALSE,Yes,Very Social,1,30.2711286,-97.7436994,Vegan,18,22
+blahblah26,28,F,False,Clean,True,800,12 month or less,2017-05-01,17 - 50,A,austin,Early Bird,TRUE,Yes,Moderately Social,7,30.2711286,-97.7436994,Non-Vegetarian,17,50
+Kelly38,38,F,False, Moderately Clean,True,700,12 month or less,2016-11-30,28 - 40,A,austin,Early Bird,TRUE,Yes,I keep to myself,4,30.2711286,-97.7436994,Non-Vegetarian,28,40
+JeffATX512,42,M,True,Clean,True,800,3 month or less,2016-11-28,17 - 50,A,austin,Early Bird,FALSE,No,Very Social,1,30.2711286,-97.7436994,Vegetarian,17,50
+vandelleon24,19,M,False, Moderately Clean,True,2000,6 month or less,2016-12-01,17 - 50,A,austin,Early Bird,TRUE,No,Moderately Social,1,30.2711286,-97.7436994,Non-Vegetarian,17,50
+LGM,17,O,False, Moderately Clean,True,800,12 month or less,2016-12-01,35 - 99,A,austin,Early Bird,TRUE,No,I keep to myself,0,30.2711286,-97.7436994,Vegetarian,35,99
+AlliH,22,F,True, Moderately Clean,True,500,9 month or less,2016-12-27,18 - 40,A,austin,Early Bird,TRUE,No,Very Social,5,30.2711286,-97.7436994,Vegan,18,40
+Meili,21,F,True,Clean,True,900,12 month or less,2016-12-26,17 - 50,A,austin,Early Bird,FALSE,No,Moderately Social,6,30.2711286,-97.7436994,Vegetarian,17,50
+arten00,43,F,True, Moderately Clean,True,800,12 month or less,2016-12-01,30 - 99,A,austin,Early Bird,TRUE,No,I keep to myself,3,30.2711286,-97.7436994,Vegetarian,30,99
+alesuarez,29,F,False,Clean,True,1000,12 month or less,2016-12-01,25 - 37,A,austin,Early Bird,TRUE,No,Very Social,4,30.2711286,-97.7436994,Non-Vegetarian,25,37
+youragginatx,33,F,False,Clean,True,1500,12 month or less,2016-12-01,40 - 99,A,austin,Early Bird,TRUE,No,Moderately Social,7,30.2711286,-97.7436994,Vegetarian,40,99
+Harpersr,35,M,False,Clean,True,500,Month to month,2016-12-01,17 - 50,A,austin,Early Bird,FALSE,No,I keep to myself,6,30.2711286,-97.7436994,Vegan,17,50
+mneely81,25,M,False, Moderately Clean,True,1000,12 month or less,2017-01-01,21 - 35,A,austin,Early Bird,TRUE,No,Very Social,0,30.2711286,-97.7436994,Vegetarian,21,35
+JohnnyBeGood,19,M,False, Moderately Clean,True,700,12 month or less,2017-01-01,18 - 25,A,austin,Early Bird,TRUE,No,Moderately Social,3,30.2711286,-97.7436994,Vegetarian,18,25
+eric96,54,M,True,Clean,True,700,12 month or less,2016-12-01,17 - 50,A,austin,Early Bird,FALSE,No,I keep to myself,3,30.2711286,-97.7436994,Non-Vegetarian,17,50
+Kai98,70,F,False, Moderately Clean,True,600,12 month or less,2016-12-01,47 - 99,A,austin,Early Bird,TRUE,No,Very Social,2,30.2711286,-97.7436994,Vegetarian,47,99
+TxSugar83,28,M,False, Moderately Clean,True,700,12 month or less,2016-12-31,26 - 35,A,austin,Early Bird,TRUE,No,Moderately Social,0,30.2711286,-97.7436994,Vegan,26,35
+mizzlizz,22,F,True,Clean,True,600,9 month or less,2016-12-01,21 - 29,A,austin,Early Bird,TRUE,No,I keep to myself,3,30.2711286,-97.7436994,Non-Vegetarian,21,29
+call825x82oo,18,F,True, Moderately Clean,True,1000,9 month or less,2017-02-01,18 - 25,A,austin,Early Bird,FALSE,No,Very Social,2,30.2711286,-97.7436994,Vegetarian,18,25
+Matt_H,20,F,False, Moderately Clean,True,1000,6 month or less,2017-01-15,18 - 25,A,austin,Early Bird,TRUE,No,Moderately Social,6,30.2711286,-97.7436994,Vegetarian,18,25
+kait386,27,F,False,Clean,True,600,Month to month,2017-01-01,17 - 50,A,austin,Early Bird,TRUE,No,I keep to myself,1,30.2711286,-97.7436994,Vegetarian,17,50
+ShannonMead,22,M,False,Clean,True,2000,12 month or less,2017-06-01,17 - 50,A,austin,Early Bird,TRUE,No,Very Social,4,30.2711286,-97.7436994,Vegetarian,17,50
+theamory,26,F,False,Clean,True,600,6 month or less,2017-02-01,22 - 36,A,austin,Early Bird,FALSE,No,Moderately Social,6,30.2711286,-97.7436994,Non-Vegetarian,22,36
+Kevinkanders,25,F,False, Moderately Clean,True,600,12 month or less,2017-01-05,21 - 35,A,austin,Early Bird,TRUE,No,Moderately Social,4,30.2711286,-97.7436994,Vegetarian,21,35
+maggie1008,31,M,False,Clean,True,500,12 month or less,2016-12-01,17 - 50,A,austin,Early Bird,TRUE,No,Moderately Social,7,30.2711286,-97.7436994,Non-Vegetarian,17,50
+jaxter184,17,M,False, Moderately Clean,True,700,12 month or less,2016-12-01,17 - 50,A,austin,Early Bird,FALSE,No,Moderately Social,0,30.2711286,-97.7436994,Vegetarian,17,50
+Vance50,17,O,False,Clean,True,400,12 month or less,2016-12-01,17 - 50,A,austin,Early Bird,TRUE,No,Moderately Social,5,30.2711286,-97.7436994,Vegan,17,50
+CLeger85,21,F,False,Clean,True,400,Month to month,2016-12-01,18 - 25,A,austin,Early Bird,TRUE,No,Moderately Social,0,30.2711286,-97.7436994,Vegetarian,18,25
+Meganaudell,34,F,True,Clean,True,600,6 month or less,2016-12-01,17 - 50,A,austin,Early Bird,TRUE,No,Moderately Social,5,30.2711286,-97.7436994,Vegan,17,50
+Fionn167,35,M,False,Clean,True,600,Month to month,2017-01-01,17 - 50,A,austin,Early Bird,FALSE,No,Moderately Social,7,30.2711286,-97.7436994,Non-Vegetarian,17,50
+freckleface,44,M,False, Moderately Clean,True,500,12 month or less,2016-12-01,30 - 46,A,austin,Early Bird,TRUE,No,Moderately Social,7,30.2711286,-97.7436994,Non-Vegetarian,30,46
+livingcanvas,25,F,True, Moderately Clean,True,800,12 month or less,2016-11-27,17 - 50,A,austin,Early Bird,TRUE,No,Moderately Social,7,30.2711286,-97.7436994,Non-Vegetarian,17,50
+KaraB,51,M,False,Clean,True,2000,6 month or less,2017-01-01,17 - 50,M,austin,Early Bird,TRUE,No,Moderately Social,7,30.2711286,-97.7436994,Non-Vegetarian,17,50
+kevenjacobs,20,M,True,Clean,True,500,12 month or less,2016-12-28,18 - 25,A,austin,Early Bird,FALSE,No,Moderately Social,0,30.2711286,-97.7436994,Non-Vegetarian,18,25
+IvyMc,26,M,False,Clean,True,500,12 month or less,2017-01-18,17 - 50,A,austin,Early Bird,TRUE,No,Moderately Social,6,30.2711286,-97.7436994,Vegetarian,17,50
+Quixex,18,F,False, Moderately Clean,True,300,12 month or less,2017-07-10,18 - 21,A,dallas,Early Bird,TRUE,No,Moderately Social,0,32.7620405,-96.7790068,Vegetarian,18,21
+GavinDrake,26,M,False, Moderately Clean,True,700,12 month or less,2016-12-01,18 - 30,A,dallas,Early Bird,FALSE,No,I keep to myself,2,32.7620405,-96.7790068,Vegetarian,18,30
+Bri98,26,F,True,Clean,True,500,12 month or less,2016-12-01,18 - 35,A,dallas,Early Bird,TRUE,No,I keep to myself,5,32.7620405,-96.7790068,Non-Vegetarian,18,35
+ArtsyBee,46,M,False,Clean,True,1000,12 month or less,2017-01-03,25 - 50,M,dallas,Early Bird,TRUE,No,I keep to myself,2,32.7620405,-96.7790068,Vegetarian,25,50
+Sunnie316,22,M,True,Clean,True,600,9 month or less,2016-12-15,19 - 27,M,dallas,Early Bird,TRUE,No,Moderately Social,0,32.7620405,-96.7790068,Non-Vegetarian,19,27
+Ty781,26,M,True,Clean,True,800,12 month or less,2017-02-14,21 - 32,A,dallas,Early Bird,FALSE,No,Moderately Social,3,32.7620405,-96.7790068,Non-Vegetarian,21,32
+charityjean,25,F,False, Moderately Clean,True,500,6 month or less,2016-12-12,30 - 45,A,dallas,Early Bird,TRUE,No,I keep to myself,6,32.7620405,-96.7790068,Vegan,30,45
+Nikkighost,34,M,False,Clean,True,500,Month to month,2016-12-28,25 - 50,A,dallas,Early Bird,TRUE,No,I keep to myself,5,32.7620405,-96.7790068,Non-Vegetarian,25,50
+kealag,31,M,False,Clean,True,1000,12 month or less,2016-12-01,18 - 55,A,dallas,Early Bird,TRUE,No,I keep to myself,3,32.7620405,-96.7790068,Vegetarian,18,55
+PDoright,23,M,True,Clean,True,700,12 month or less,2016-11-28,18 - 40,A,dallas,Early Bird,FALSE,No,Moderately Social,0,32.7620405,-96.7790068,Vegan,18,40
+stephenm85,26,F,False, Moderately Clean,True,600,12 month or less,2017-03-15,22 - 30,A,dallas,Early Bird,TRUE,No,Moderately Social,3,32.7620405,-96.7790068,Vegetarian,22,30
+MiaJayy,35,M,False,Clean,True,1000,12 month or less,2017-03-01,17 - 50,A,dallas,Early Bird,TRUE,No,I keep to myself,1,32.7620405,-96.7790068,Vegan,17,50
+Bmasmom,30,M,False, Moderately Clean,True,700,12 month or less,2017-01-01,25 - 35,A,dallas,Early Bird,TRUE,No,I keep to myself,4,32.7620405,-96.7790068,Non-Vegetarian,25,35
+Justo,28,M,False, Moderately Clean,True,500,12 month or less,2016-12-30,17 - 50,A,dallas,Early Bird,TRUE,No,I keep to myself,0,32.7620405,-96.7790068,Non-Vegetarian,17,50
+Cbustos13,70,M,False,Clean,True,600,12 month or less,2017-01-01,40 - 99,A,dallas,Early Bird,TRUE,No,Moderately Social,1,32.7620405,-96.7790068,Vegetarian,40,99
+sherylyp,18,M,True,Clean,True,200,Month to month,2016-12-01,17 - 50,A,dallas,Early Bird,TRUE,No,Moderately Social,1,32.7620405,-96.7790068,Vegan,17,50
+musicman2511,27,F,False,Clean,True,700,12 month or less,2016-12-01,21 - 38,A,dallas,Early Bird,TRUE,No,I keep to myself,0,32.7620405,-96.7790068,Vegan,21,38
+PWTRN,51,F,False,Clean,True,600,12 month or less,2017-01-01,18 - 55,A,dallas,Early Bird,TRUE,No,I keep to myself,5,32.7620405,-96.7790068,Vegetarian,18,55
+Eufinhr07,30,M,False,Clean,True,700,12 month or less,2017-01-01,18 - 40,A,dallas,Early Bird,TRUE,No,I keep to myself,4,32.7620405,-96.7790068,Vegetarian,18,40
+Tricie,35,M,False, Moderately Clean,True,1000,12 month or less,2017-01-01,30 - 50,A,dallas,Early Bird,TRUE,No,Moderately Social,3,32.7620405,-96.7790068,Vegetarian,30,50
+PSuassuna,47,F,True,Clean,True,500,12 month or less,2017-03-31,17 - 50,A,dallas,Early Bird,TRUE,No,Moderately Social,4,32.7620405,-96.7790068,Vegetarian,17,50
+cml17,28,F,False, Moderately Clean,True,800,12 month or less,2016-12-01,24 - 35,A,dallas,Early Bird,TRUE,No,I keep to myself,0,32.7620405,-96.7790068,Vegetarian,24,35
+tclefjon,25,F,False,Clean,True,900,12 month or less,2017-01-14,17 - 50,A,dallas,Early Bird,TRUE,No,I keep to myself,4,32.7620405,-96.7790068,Non-Vegetarian,17,50
+Baileyval89,54,F,False,Clean,True,600,12 month or less,2016-12-01,17 - 50,A,dallas,Early Bird,TRUE,No,I keep to myself,1,32.7620405,-96.7790068,Vegan,17,50
+Ttyler,24,F,False,Clean,True,600,12 month or less,2017-01-01,22 - 35,A,dallas,Early Bird,TRUE,No,I keep to myself,3,32.7620405,-96.7790068,Vegan,22,35
+Yorkie61,20,M,False,I don't care,True,600,6 month or less,2016-11-30,18 - 25,A,dallas,Early Bird,TRUE,No,I keep to myself,3,32.7620405,-96.7790068,Non-Vegetarian,18,25
+OmarJ18,30,M,True, Moderately Clean,True,800,12 month or less,2016-12-01,21 - 35,A,dallas,Early Bird,TRUE,No,I keep to myself,2,32.7620405,-96.7790068,Vegan,21,35
+UNT16,17,F,False,Clean,True,500,12 month or less,2016-12-01,17 - 50,A,dallas,Early Bird,TRUE,No,Moderately Social,1,32.7620405,-96.7790068,Vegan,17,50
+NATHANface,56,F,True,Clean,True,500,Month to month,2016-12-01,17 - 50,A,dallas,Early Bird,TRUE,No,Moderately Social,7,32.7620405,-96.7790068,Non-Vegetarian,17,50
+frod89,27,M,False,Clean,True,600,12 month or less,2017-03-01,17 - 50,A,dallas,Early Bird,TRUE,No,I keep to myself,6,32.7620405,-96.7790068,Non-Vegetarian,17,50
+JarodB101,25,F,False,Clean,True,2000,12 month or less,2016-12-01,17 - 50,A,dallas,Early Bird,TRUE,No,I keep to myself,6,32.7620405,-96.7790068,Vegetarian,17,50
+aeyrolet,28,M,False,Clean,True,400,12 month or less,2016-12-01,30 - 40,A,dallas,Early Bird,TRUE,No,I keep to myself,0,32.7620405,-96.7790068,Vegetarian,30,40
+beekster,33,F,True, Moderately Clean,True,700,12 month or less,2016-12-01,17 - 50,A,dallas,Early Bird,TRUE,No,Moderately Social,7,32.7620405,-96.7790068,Non-Vegetarian,17,50
+ZPayne,41,F,False,Clean,True,500,12 month or less,2016-12-01,17 - 50,A,dallas,Early Bird,TRUE,No,Moderately Social,6,32.7620405,-96.7790068,Vegetarian,17,50
+Actliknothin,54,F,False, Moderately Clean,True,600,9 month or less,2016-11-28,35 - 99,A,dallas,Early Bird,TRUE,No,I keep to myself,4,32.7620405,-96.7790068,Vegetarian,35,99
+jarman789,25,M,True, Moderately Clean,True,800,12 month or less,2017-02-01,18 - 30,A,dallas,Early Bird,TRUE,No,I keep to myself,2,32.7620405,-96.7790068,Vegan,18,30
+Maximus81,38,M,False,Clean,True,600,12 month or less,2016-12-15,28 - 48,A,dallas,Early Bird,TRUE,No,I keep to myself,7,32.7620405,-96.7790068,Non-Vegetarian,28,48
+Granger530,20,M,False, Moderately Clean,True,400,12 month or less,2017-07-01,17 - 50,A,dallas,Early Bird,TRUE,No,Moderately Social,7,32.7620405,-96.7790068,Non-Vegetarian,17,50
+16Hamilton,18,M,True, Moderately Clean,True,400,12 month or less,2016-11-30,18 - 30,A,dallas,Early Bird,TRUE,No,Moderately Social,0,32.7620405,-96.7790068,Non-Vegetarian,18,30
+RayFalub,27,M,False, Moderately Clean,True,800,12 month or less,2017-01-01,17 - 50,A,dallas,Early Bird,TRUE,No,I keep to myself,2,32.7620405,-96.7790068,Vegetarian,17,50
+Ash1woman,18,F,False,Clean,True,400,Month to month,2016-11-30,18 - 36,A,dallas,Early Bird,TRUE,No,I keep to myself,0,32.7620405,-96.7790068,Vegetarian,18,36
+Spencer61,29,M,True,Clean,True,400,12 month or less,2016-12-01,23 - 33,A,dallas,Early Bird,TRUE,No,I keep to myself,7,32.7620405,-96.7790068,Non-Vegetarian,23,33
+Chinmay91,37,M,False, Moderately Clean,True,700,Month to month,2016-12-01,30 - 99,A,dallas,Early Bird,TRUE,No,Moderately Social,3,32.7620405,-96.7790068,Vegan,30,99
+souzabca,18,F,False,Clean,True,500,12 month or less,2016-12-23,18 - 35,A,dallas,Early Bird,TRUE,No,Moderately Social,5,32.7620405,-96.7790068,Non-Vegetarian,18,35
+Arby41,21,M,False,Clean,True,600,12 month or less,2016-12-20,20 - 30,A,dallas,Early Bird,TRUE,No,I keep to myself,0,32.7620405,-96.7790068,Vegan,20,30
+hollygiga,25,M,False, Moderately Clean,True,800,12 month or less,2016-12-01,17 - 50,A,dallas,Early Bird,TRUE,No,I keep to myself,6,32.7620405,-96.7790068,Vegetarian,17,50
+markjimenez,25,M,False,Clean,True,500,12 month or less,2017-01-01,17 - 50,A,san antonio,Early Bird,TRUE,No,I keep to myself,0,29.4246002,-98.4951404,Vegan,17,50
+Loren,17,F,False,Clean,True,600,Month to month,2016-12-01,30 - 99,A,san antonio,Early Bird,TRUE,No,I keep to myself,2,29.4246002,-98.4951404,Non-Vegetarian,30,99
+Sarahrm,42,F,False, Moderately Clean,True,700,12 month or less,2017-01-30,35 - 99,A,san antonio,Early Bird,TRUE,No,I keep to myself,7,29.4246002,-98.4951404,Vegan,35,99
+SarahGemi,30,F,True,Clean,True,600,6 month or less,2016-12-01,17 - 50,A,san antonio,Early Bird,TRUE,No,I keep to myself,5,29.4246002,-98.4951404,Vegan,17,50
+JavaVava,24,F,False,Clean,True,600,12 month or less,2017-01-01,22 - 35,A,san antonio,Early Bird,TRUE,No,Moderately Social,5,29.4246002,-98.4951404,Vegan,22,35
+jake1285,25,M,False, Moderately Clean,True,800,12 month or less,2016-12-01,17 - 50,A,san antonio,Early Bird,TRUE,No,Moderately Social,2,29.4246002,-98.4951404,Vegan,17,50
+kvelasco,25,M,False,Clean,True,500,12 month or less,2017-01-01,17 - 50,A,san antonio,Early Bird,TRUE,No,I keep to myself,7,29.4246002,-98.4951404,Vegetarian,17,50
+Davin,18,M,True,I don't care,True,400,12 month or less,2016-11-30,18 - 30,A,san antonio,Early Bird,TRUE,No,I keep to myself,5,29.4246002,-98.4951404,Vegan,18,30
+DoctorVell,47,F,True,Clean,True,500,12 month or less,2017-03-31,17 - 50,A,san antonio,Early Bird,TRUE,No,I keep to myself,6,29.4246002,-98.4951404,Vegan,17,50
+kgriffin6211,28,F,False, Moderately Clean,True,800,12 month or less,2016-12-01,24 - 35,A,san antonio,Early Bird,TRUE,No,Moderately Social,6,29.4246002,-98.4951404,Vegan,24,35
+Juprk1,20,M,True,I don't care,True,400,12 month or less,2017-07-01,17 - 50,A,san antonio,Early Bird,TRUE,No,Moderately Social,4,29.4246002,-98.4951404,Vegetarian,17,50
+AlisaG54,54,F,False,Clean,True,500,12 month or less,2016-12-01,30 - 99,A,houston,Early Bird,TRUE,No,I keep to myself,4,29.7589382,-95.3676973,Vegan,30,99
+willdawson1,22,M,False, Moderately Clean,True,400,Month to month,2016-12-01,17 - 50,A,houston,Early Bird,TRUE,No,I keep to myself,7,29.7589382,-95.3676973,Non-Vegetarian,17,50
+lookinginhtx,22,F,True,Clean,True,2000,12 month or less,2016-12-31,17 - 50,A,houston,Early Bird,TRUE,No,I keep to myself,4,29.7589382,-95.3676973,Non-Vegetarian,17,50
+grizzlypapa,44,F,False,Clean,True,400,12 month or less,2017-04-02,24 - 99,A,houston,Early Bird,TRUE,No,Moderately Social,6,29.7589382,-95.3676973,Vegetarian,24,99
+Ohdisone,31,F,True, Moderately Clean,True,400,12 month or less,2017-01-01,21 - 90,A,houston,Early Bird,TRUE,No,Moderately Social,1,29.7589382,-95.3676973,Vegetarian,21,90
+ZMae,17,F,False,Clean,True,1000,12 month or less,2016-11-30,17 - 50,A,houston,Early Bird,TRUE,No,I keep to myself,4,29.7589382,-95.3676973,Vegan,17,50
+KPP,23,M,True,Clean,True,900,12 month or less,2017-02-01,20 - 40,A,houston,Early Bird,TRUE,No,I keep to myself,2,29.7589382,-95.3676973,Vegan,20,40
+Tenchuu,39,M,False, Moderately Clean,True,700,12 month or less,2016-12-05,18 - 49,A,houston,Early Bird,TRUE,No,I keep to myself,3,29.7589382,-95.3676973,Non-Vegetarian,18,49
+Kinkynerd,28,F,False,Clean,True,500,12 month or less,2016-12-01,28 - 99,A,houston,Early Bird,TRUE,No,Moderately Social,3,29.7589382,-95.3676973,Non-Vegetarian,28,99
+Coffeelover2,32,M,False,Clean,True,1000,12 month or less,2016-12-01,25 - 35,A,houston,Early Bird,TRUE,No,Moderately Social,1,29.7589382,-95.3676973,Vegetarian,25,35
+CarlosD,27,M,False, Moderately Clean,True,500,12 month or less,2016-12-01,17 - 50,A,houston,Early Bird,TRUE,No,I keep to myself,5,29.7589382,-95.3676973,Vegan,17,50
+tf08246,31,F,False, Moderately Clean,True,800,12 month or less,2016-12-01,25 - 99,A,houston,Early Bird,TRUE,No,I keep to myself,0,29.7589382,-95.3676973,Vegan,25,99
+saurabh007g,36,M,False, Moderately Clean,True,500,12 month or less,2016-12-01,17 - 50,A,houston,Early Bird,TRUE,No,I keep to myself,7,29.7589382,-95.3676973,Vegan,17,50
+Sinsae,52,F,False,Clean,True,500,Month to month,2016-12-31,17 - 50,A,houston,Early Bird,TRUE,No,I keep to myself,6,29.7589382,-95.3676973,Vegetarian,17,50
+Colnago,30,F,False,Clean,True,1000,12 month or less,2017-01-01,25 - 45,A,houston,Early Bird,TRUE,No,I keep to myself,5,29.7589382,-95.3676973,Non-Vegetarian,25,45
+Drika,61,M,False, Moderately Clean,True,700,6 month or less,2016-12-01,30 - 99,A,houston,Early Bird,TRUE,No,I keep to myself,0,29.7589382,-95.3676973,Non-Vegetarian,30,99
+mikkoz,25,M,True,Clean,True,700,12 month or less,2017-05-01,25 - 40,A,houston,Early Bird,TRUE,No,Moderately Social,2,29.7589382,-95.3676973,Vegan,25,40
+carlosj23,33,F,False,Clean,True,600,12 month or less,2017-03-01,25 - 99,A,houston,Early Bird,TRUE,No,Moderately Social,5,29.7589382,-95.3676973,Non-Vegetarian,25,99
+AJB1914,33,F,False,Clean,True,1000,Month to month,2016-12-03,17 - 50,A,houston,Early Bird,TRUE,No,I keep to myself,7,29.7589382,-95.3676973,Vegan,17,50
+Ashbo,29,M,True,Clean,True,800,12 month or less,2016-12-01,22 - 35,A,houston,Early Bird,TRUE,No,I keep to myself,3,29.7589382,-95.3676973,Vegetarian,22,35
+Vizzini13,21,M,False,Clean,True,600,12 month or less,2017-02-01,17 - 50,A,houston,Early Bird,TRUE,No,I keep to myself,5,29.7589382,-95.3676973,Vegan,17,50
+TTiffany,50,M,False,Clean,True,700,12 month or less,2016-12-01,30 - 60,M,houston,Early Bird,TRUE,No,Moderately Social,3,29.7589382,-95.3676973,Vegan,30,60
+ChaseL,28,F,False,I don't care,True,500,12 month or less,2016-12-01,17 - 50,A,houston,Early Bird,TRUE,No,Moderately Social,1,29.7589382,-95.3676973,Non-Vegetarian,17,50
+AJohnson55,23,M,False, Moderately Clean,True,600,12 month or less,2017-01-10,17 - 50,A,houston,Early Bird,TRUE,No,I keep to myself,6,29.7589382,-95.3676973,Non-Vegetarian,17,50
+__dez,36,M,True, Moderately Clean,True,500,12 month or less,2017-01-01,21 - 40,A,houston,Early Bird,TRUE,No,I keep to myself,6,29.7589382,-95.3676973,Vegan,21,40
+Joeydelag80,31,F,True,Clean,True,800,12 month or less,2017-06-01,17 - 50,A,houston,Early Bird,TRUE,No,I keep to myself,0,29.7589382,-95.3676973,Vegetarian,17,50
+Kent,20,F,False,Clean,True,400,6 month or less,2016-11-30,18 - 30,A,houston,Early Bird,TRUE,No,Moderately Social,7,29.7589382,-95.3676973,Non-Vegetarian,18,30
+4JoshuaPye,21,F,False,Clean,True,400,12 month or less,2017-05-26,17 - 50,A,houston,Early Bird,TRUE,No,Moderately Social,4,29.7589382,-95.3676973,Vegan,17,50
+InfinitiW,21,M,False,Clean,True,500,12 month or less,2016-11-30,21 - 35,A,houston,Early Bird,TRUE,No,I keep to myself,0,29.7589382,-95.3676973,Vegetarian,21,35
+Mitas,35,F,False,Clean,True,1500,12 month or less,2016-12-01,27 - 35,A,houston,Early Bird,TRUE,No,I keep to myself,3,29.7589382,-95.3676973,Vegetarian,27,35
+acromer7,20,M,False,Clean,True,1000,12 month or less,2016-12-01,17 - 50,A,houston,Early Bird,TRUE,No,I keep to myself,1,29.7589382,-95.3676973,Non-Vegetarian,17,50
+JRapp314,24,M,False,Clean,True,1500,12 month or less,2017-02-01,18 - 38,A,houston,Early Bird,TRUE,No,Moderately Social,4,29.7589382,-95.3676973,Vegan,18,38
+Friday,17,F,False,Clean,True,600,12 month or less,2016-12-01,17 - 50,A,houston,Early Bird,TRUE,No,Moderately Social,1,29.7589382,-95.3676973,Non-Vegetarian,17,50
+Yaras,25,F,False,Clean,True,700,12 month or less,2017-01-01,17 - 50,A,houston,Early Bird,TRUE,No,I keep to myself,4,29.7589382,-95.3676973,Vegetarian,17,50
