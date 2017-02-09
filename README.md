@@ -1,1 +1,1 @@
-# mirumu-django
+# mirumi-django
